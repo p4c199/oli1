@@ -13,4 +13,7 @@ html{
 
 .footer{
 	background: red;
+
+h1{
+	text-decoration: underline;
 }
