@@ -10,3 +10,7 @@ html{
 .heading{
 	text-transform: uppercase;
 }
+
+.footer{
+	background: red;
+}
