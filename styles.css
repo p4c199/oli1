@@ -1,0 +1,12 @@
+body{
+	color: red;
+}
+
+html{
+	font-family: Helvetica;
+	font-size: 10px;
+}
+
+.heading{
+	text-transform: uppercase;
+}
